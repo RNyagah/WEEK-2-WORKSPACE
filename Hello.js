@@ -1,1 +1,1 @@
-const ageCalculator
+alert('you are cool!');
